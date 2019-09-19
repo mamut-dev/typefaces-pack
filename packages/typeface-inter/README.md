@@ -1,6 +1,14 @@
-# `@typefaces-pack/typeface-inter`
+<div align="center">
+
+# @typefaces-pack/typeface-inter
 
 The CSS and web font files to easily self-host [inter](https://rsms.me/inter/).
+
+  <a href="https://www.npmjs.com/package/@typefaces-pack/typeface-inter" target="_blank">
+    <img src="https://img.shields.io/npm/v/@typefaces-pack/typeface-inter?color=red&style=flat-square" alt="www.npmjs.com" />
+  </a>
+
+</div>
 
 ## Install
 
