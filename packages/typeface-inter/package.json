@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mamut-dev/typefaces-pack/blob/master/packages/typeface-inter"
+    "url": "https://github.com/mamut-dev/typefaces-pack/tree/master/packages/typeface-inter"
   },
   "main": "index.css",
   "keywords": [
